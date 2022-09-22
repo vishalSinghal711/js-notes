@@ -33,7 +33,7 @@ Same thing will be repeated for square4 and then after that is finished, the glo
 So the **final diagram** before deletion would look something like:
 
 ![Execution Context Phase 2](../assets/final_execution_context.jpg "Execution Context")
-![Execution Context Phase 2](../assets/final_execution_context.jpg "Execution Context")
+![Call Stack](https://i.ytimg.com/vi/2ZH_1d8TYVg/maxresdefault.jpg "Call Stack")
 
 
 * Javascript manages code execution context creation and deletion with the the help of **Call Stack**.
